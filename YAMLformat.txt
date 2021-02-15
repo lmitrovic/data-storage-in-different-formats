@@ -1,0 +1,36 @@
+---
+name: "Student"
+id: 1
+attributes:
+  ime: "Milica"
+  prezime: "Bakic"
+  adresa:
+    name: "Adresa"
+    id: 3
+    attributes:
+      ulica: "Ruzveltova"
+      broj: 44.0
+---
+name: "Student"
+id: 2
+attributes:
+  ime: "Luka"
+  prezime: "Mitrovic"
+---
+name: "Student"
+id: 4
+attributes:
+  ime: "Petar"
+  prezime: "Petrovic"
+  indeks: "RI108/18"
+---
+name: "Profesor"
+id: 5
+attributes:
+  ime: "Filip"
+  predmet:
+    name: "Predmet"
+    id: 6
+    attributes:
+      ime: "SK"
+      godina: 2020

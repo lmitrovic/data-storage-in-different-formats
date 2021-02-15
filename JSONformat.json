@@ -1,0 +1,6 @@
+[{"name":"Student","id":1,"attributes":{"ime":"Milica","prezime":"Bakic"}},
+{"name":"Student","id":2,"attributes":{"ime":"Luka","prezime":"Mitrovic","Adresa":{"name":"Adresa","id":3,"attributes":{"ulica":"Sundeciceva","broj":3.0}}}},
+{"name":"Profesor","id":4,"attributes":{"ime":"Bojana","prezime":"Dimic Surla"}},
+{"name":"Profesor","id":5,"attributes":{"ime":"Dragan","prezime":"Urosevic","asistent":{"name":"Student","id":6,"attributes":{"ime":"Milan","prezime":"Petrovic"}}}},
+{"name":"Profesor","id":7,"attributes":{"ime":"Milanka","prezime":"Gardasevic","zip":"11000.0","ulica":"Strumicka"}},
+{"name":"Student","id":8,"attributes":{"ime":"Nevena","prezime":"Maksimovic","indeks":"RN89/19"}}]

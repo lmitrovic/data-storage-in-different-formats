@@ -1,0 +1,3 @@
+C:\Users\ThinkPad\Desktop\YAMLformat.txt;TRUE
+C:\Users\ThinkPad\Desktop\CustomFormat.txt;FALSE
+C:\Users\ThinkPad\Desktop\JSONformat.json;TRUE

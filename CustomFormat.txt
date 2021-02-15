@@ -1,0 +1,4 @@
+name='Student';id=1;ime='Luka';prezime='Mitrovic';zvanje={name='Zvanje',id=101,trajanje='12 meseci',tip='Asistent'}
+name='Student';id=3;ime='Milica';prezime='Bakic';adresa={name='Adresa',id=2,ulica='Bircaninova',broj=3}
+name='Student';id=89;ime='Milos';prezime='Milosevic'
+name='Student';id=90;ime='Luka'
