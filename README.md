@@ -1,0 +1,5 @@
+DataIE is a library (component) that will be used to store data in files with a specific structure, similar to a database. Instead of tables, data is stored in structured files. Some known data structuring standards are used, such as JSON and YAML. A new one was also designed. A component is implemented by separating a specification (API) into a separate component and three different implementations of that specification. The specification should contain abstractions of all functionalities. These functionalities do not depend on the specific implementation. There is one implementation for each of the three data storage formats.
+The data that is stored are entities. Each entity has its own id, name, and arbitrary number of attributes. An attribute of one entity can be another entity. This component supports CRUD operations on entities. Entity sorting and searching is enabled.
+The project is written in the Java programming language. The Maven build tool was used.
+
+![sk1](https://user-images.githubusercontent.com/72874908/113434815-ebec7900-93e1-11eb-87c3-c5e00753f8c9.png)
